@@ -22,3 +22,9 @@
 - **Matplotlib & Seaborn** – Static visualizations  
 - **Plotly** – Interactive charts  
 - **Streamlit** – Web app framework  
+
+---
+
+## 📂 Dataset
+
+The project uses the **[Olympic Games dataset](https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history-athletes-and-results)** containing athlete and event records from **1896 to 2016**.
